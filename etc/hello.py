@@ -1,5 +1,5 @@
-pythonpath = /home/box/web/
-python = hello:application
+pythonpath = "/home/box/web/"
+python = "hello:application"
 bind = "0.0.0.0:8080"
 workers = 5
 user = "www"
